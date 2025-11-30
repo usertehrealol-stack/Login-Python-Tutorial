@@ -16,7 +16,7 @@ This will automatically change the input language format to Python as it uses th
 extension, however for some primitive text editors it does not.
 
 Now, follow as i do.
-
+(Alternatively, copypaste from login.py found in this github repo.)
 ====================START COPYPASTING HERE INTO LOGIN.PY=================================
 # This is a comment. This won't be printed out to console. 
 
