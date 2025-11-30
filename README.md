@@ -1,6 +1,8 @@
 # Login Python Tutorial
 # This is a tutorial in Python of how to create a simple login.
 
+⚠️ WARNING: Do NOT USE THIS FOR BUSINESS PURPOSES. This is simply for educational and entertainment value. The login info is just plain text -- so it isn't very secure - why is why I'm warning you to not use this in a professional standpoint.
+
 You want to create a simple login thing in Python but don't know how to do it?
 here you go.
 
