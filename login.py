@@ -7,7 +7,7 @@ pss = input() # records the user's input again and saves it to the variable 'pss
 
 # Now for login guessing time...
 
-print("Enter your username:") # prints the text in quottion marks, as you might guess
+print("Enter your username:") # prints the text in quotation marks, as you might guess
 USRGUESS = input() # variable in capitals usually highlights a constant (variable that never changes) but i just tried to emphasise it.
 print("Enter your password:") # same as what you expect
 PSSGUESS = input() # user's password guess.

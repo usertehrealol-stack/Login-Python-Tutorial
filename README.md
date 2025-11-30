@@ -12,7 +12,7 @@ Make a file if you haven't already.
 Rename your file to login.py. You can search up how to rename for your local text editor.
 In Notepad++, I'm aware that it is File > Rename. 
 
-This will automatically change the input langauge format to Python as it uses the .py
+This will automatically change the input language format to Python as it uses the .py
 extension, however for some primitive text editors it does not.
 
 Now, follow as i do.
@@ -27,7 +27,7 @@ pss = input() # records the user's input again and saves it to the variable 'pss
 
 # Now for login guessing time...
 
-print("Enter your username:") # prints the text in quottion marks, as you might guess
+print("Enter your username:") # prints the text in quotation marks, as you might guess
 USRGUESS = input() # variable in capitals usually highlights a constant (variable that never changes) but i just tried to emphasise it.
 print("Enter your password:") # same as what you expect
 PSSGUESS = input() # user's password guess.
