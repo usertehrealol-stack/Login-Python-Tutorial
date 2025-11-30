@@ -4,6 +4,8 @@ This has more security features like hashing and encoding and some other stuff.
 
 ⚠️ WARNING: Do NOT USE THIS FOR BUSINESS PURPOSES. I am not a professional coder so i'm just using my very basic knowledge.
 
+Go to pull requests and go to the branch that has revert to see the one without hashing (more simpler).
+
 You want to create a simple login thing in Python but don't know how to do it?
 here you go. With more advanced stuff like encoding...
 
