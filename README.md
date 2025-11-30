@@ -16,6 +16,8 @@ This will automatically change the input langauge format to Python as it uses th
 extension, however for some primitive text editors it does not.
 
 Now, follow as i do.
+
+====================START COPYPASTING HERE INTO LOGIN.PY=================================
 # This is a comment. This won't be printed out to console. 
 
 print("Enter a username") # prints the text 'Enter a username' to console
@@ -34,4 +36,21 @@ if USRGUESS == usr and PSSGUESS == pss: # if usrguess is EQUAL to usr and pssgue
     print("Logged in successfully") # successful login
 else:
     print("Invalid username/ password") # uh oh, fail!
+
+==================END OF PYTHON CODE HERE=========================
     
+Yay! Now you have a very barebones login in Python. To run it, install python/python3 on your pc's console and run it that way (follow tutorials online on how to install it)
+at: https://www.python.org/downloads/
+
+OR 
+Run it in an online compiler.
+
+The output should be something like this: ![output](image.png)
+
+OR
+
+something like this: ![output](image-1.png).
+
+There you go! That's your first login in Python. 
+
+More tutorials coming soon...
